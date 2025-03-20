@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[<img src="https://github.com/mrjohndowe/metrics/blob/master/github-metrics.svg">](https://www.xn--8c2a.tw/)
 <!--
 **mrjohndowe/mrjohndowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
