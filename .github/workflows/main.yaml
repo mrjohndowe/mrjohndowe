@@ -101,18 +101,6 @@ jobs:
           plugin_repositories_pinned: 5
           plugin_repositories_random: 5
           plugin_repositories_starred: 5
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://mrjohndowe/Dowe_Lancaster
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
-
-          plugin_screenshot_wait: 3000
           plugin_stars: yes
           plugin_stars_limit: 10
           plugin_steam: yes
