@@ -1,5 +1,5 @@
 ## Hi there 👋
-[<img src="https://github.com/mrjohndowe/mrjohndowe/blob/main/github-metrics.svg">](http://mrjohndowe.com)
+[<img src="https://github.com/mrjohndowe/mrjohndowe/blob/main/github-metrics.svg">]([http://mrjohndowe.com](https://github.com/mrjohndowe))
 <!--
 **mrjohndowe/mrjohndowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
