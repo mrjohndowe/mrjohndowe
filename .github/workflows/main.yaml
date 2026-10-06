@@ -93,7 +93,7 @@ jobs:
           plugin_pagespeed_pwa: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: .user.website
-          plugin_projects: yes
+          plugin_projects: no
           plugin_projects_descriptions: yes
           plugin_projects_limit: 4
           plugin_repositories: yes
